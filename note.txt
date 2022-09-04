@@ -1,0 +1,5 @@
+Chọn nhiều id thì bôi đen 1 id=" + Ctrl + shift + L hoặc Ctrl + D nhiều lần: Bôi đen nội dung cần chọn Alt + shift + mũi tên sang phải 
+
+-- Tạo ra nhiều cursor: Giữ alt + click chuột 
+
+-- Muon cho li a nằm ngang thì li và li a phải display: inline-block
