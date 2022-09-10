@@ -169,6 +169,7 @@ html {
    padding-top: 50%;
    background: url('/assets/img/slider/chicago.jpg') top center / cover no-repeat;
    position: relative;
+
 }
 
 #slider .text-content {
@@ -193,8 +194,11 @@ html {
 #content .content-section {
    padding: 64px 0 112px;
    width: 800px;
+   max-width: 100%;
    margin-left: auto;
    margin-right: auto;
+   padding-left: 16px;
+   padding-right: 16px;
 }
 
 #content .section-heading {
@@ -217,6 +221,7 @@ html {
    font-size: 15px;
    margin: 15px 0;
    line-height: 1.5;
+
 }
 
 #content .member-list {
